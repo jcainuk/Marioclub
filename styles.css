@@ -106,3 +106,7 @@ article p {
   display: inline-block;
   width: 40px;
 }
+
+.images li img {
+  max-width: 100%;
+}
