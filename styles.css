@@ -41,3 +41,8 @@ header h1 {
 .banner h2 span {
   font-size: 1.3em;
 }
+
+nav {
+  background-color: #f4f4f4;
+  padding: 20px;
+}
