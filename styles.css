@@ -203,3 +203,9 @@ p::after {
     font-size: 40px;
   }
 }
+
+@media screen and (max-width: 700px) {
+  .banner .welcome {
+    position: relative;
+  }
+}
