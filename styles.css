@@ -190,7 +190,7 @@ p::after {
 
 /* responsive styles */
 @media screen and (max-width: 1400px) {
-  .banner .welcome {
+  .banner .welcome h2 {
     font-size: 40px;
   }
   nav li {
@@ -199,7 +199,7 @@ p::after {
 }
 
 @media screen and (max-width: 960px) {
-  .banner .welcome {
+  .banner .welcome h2 {
     font-size: 40px;
   }
 }
