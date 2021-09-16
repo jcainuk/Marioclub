@@ -193,4 +193,7 @@ p::after {
   .banner .welcome {
     font-size: 40px;
   }
+  nav li {
+    font-size: 18px;
+  }
 }
