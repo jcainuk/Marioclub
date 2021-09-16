@@ -197,3 +197,9 @@ p::after {
     font-size: 18px;
   }
 }
+
+@media screen and (max-width: 960px) {
+  .banner .welcome {
+    font-size: 40px;
+  }
+}
