@@ -215,4 +215,7 @@ p::after {
   .banner .welcome h2 {
     font-size: 25px;
   }
+  .banner .welcome span {
+    font-size: 1em;
+  }
 }
