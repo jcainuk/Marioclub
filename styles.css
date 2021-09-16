@@ -48,6 +48,7 @@ nav {
 }
 nav ul {
   white-space: nowrap;
+  max-width: 1200px;
 }
 nav li {
   width: 25%;
