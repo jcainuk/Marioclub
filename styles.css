@@ -8,6 +8,9 @@ a {
   padding: 0;
   font-family: arial;
 }
+p {
+  font-size: 18px;
+}
 
 header {
   background-color: #f63232;
