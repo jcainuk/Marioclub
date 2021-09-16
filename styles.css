@@ -160,3 +160,8 @@ nav li a:hover {
   position: relative;
   top: -4px;
 }
+
+form input:focus {
+  border: 4px dashed #4b4b4b;
+  outline: none;
+}
