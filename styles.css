@@ -62,8 +62,9 @@ header h1 {
 }
 
 nav {
-  background-color: #f4f4f4;
+  background: #f4f4f4;
   padding: 20px;
+  z-index: 1;
   position: sticky;
   top: 105px;
 }
