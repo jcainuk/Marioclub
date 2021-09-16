@@ -85,7 +85,7 @@ nav li a {
   color: #4b4b4b;
 }
 
-.jointheclub {
+.join {
   color: #f63232;
 }
 
@@ -125,7 +125,7 @@ article p {
   max-width: 100%;
 }
 
-.join {
+section.join {
   background: #f4f4f4;
   text-align: center;
   padding: 60px 20px;
