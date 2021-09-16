@@ -183,3 +183,7 @@ p::selection {
   background-color: #f63232;
   color: white;
 }
+
+p::after {
+  content: "...";
+}
