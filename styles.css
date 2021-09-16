@@ -46,7 +46,9 @@ nav {
   background-color: #f4f4f4;
   padding: 20px;
 }
-
+nav ul {
+  white-space: nowrap;
+}
 nav li {
   width: 25%;
   display: inline-block;
