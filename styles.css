@@ -10,6 +10,7 @@ header {
 }
 
 .banner .welcome {
+  background-color: #feb614;
   position: absolute;
   left: 0;
   top: 30%;
