@@ -207,6 +207,7 @@ p::after {
 @media screen and (max-width: 700px) {
   .banner .welcome {
     position: relative;
+    text-align: center;
   }
   .banner .welcome br {
     display: none;
