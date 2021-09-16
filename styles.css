@@ -208,4 +208,7 @@ p::after {
   .banner .welcome {
     position: relative;
   }
+  .banner .welcome br {
+    display: none;
+  }
 }
