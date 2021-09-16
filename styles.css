@@ -212,4 +212,7 @@ p::after {
   .banner .welcome br {
     display: none;
   }
+  .banner .welcome h2 {
+    font-size: 25px;
+  }
 }
