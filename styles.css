@@ -11,6 +11,7 @@ header {
 
 .banner .welcome {
   background-color: #feb614;
+  color: white;
   position: absolute;
   left: 0;
   top: 30%;
