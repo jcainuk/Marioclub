@@ -43,6 +43,7 @@ header h1 {
   position: absolute;
   left: 0;
   top: 30%;
+  font-size: 60px;
 }
 
 .banner h2 {
