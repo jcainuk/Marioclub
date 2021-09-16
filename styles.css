@@ -2,6 +2,9 @@ header {
   background-color: #f63232;
   padding: 20px;
   text-align: center;
+  position: fixed;
+  width: 100%;
+  z-index: 1;
 }
 
 .banner {
