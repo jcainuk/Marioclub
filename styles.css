@@ -12,8 +12,16 @@ header {
 .banner .welcome {
   background-color: #feb614;
   color: white;
-  padding: 29px;
+  padding: 30px;
   position: absolute;
   left: 0;
   top: 30%;
+}
+
+.banner h2 {
+  font-size: 22px;
+}
+
+.banner h2 span {
+  font-size: 1.3em;
 }
