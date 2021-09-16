@@ -141,3 +141,10 @@ form input {
   border-radius: 28px;
   border: 4px solid white;
 }
+
+footer {
+  background: #f63232;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
