@@ -208,7 +208,7 @@ p::after {
   .banner .welcome {
     position: relative;
     text-align: center;
-    padding: 2px;
+    padding: 10px;
   }
   .banner .welcome br {
     display: none;
