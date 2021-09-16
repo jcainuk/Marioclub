@@ -101,3 +101,8 @@ article p {
   text-align: center;
   margin: 80px 0;
 }
+
+.images li {
+  display: inline-block;
+  width: 40px;
+}
