@@ -158,7 +158,6 @@ nav li a:hover {
 }
 
 .images li:hover {
-  position: relative;
   top: -4px;
 }
 
