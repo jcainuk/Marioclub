@@ -33,7 +33,7 @@ The project covered the following concepts:
 
 ## Status
 
-Project is: IN PROGRESS
+Project is: COMPLETE
 
 ## Inspiration
 
@@ -41,7 +41,7 @@ Project created as part of the [HTML & CSS Crash Course](https://www.youtube.com
 
 ## Considerations
 
-To be completed later
+At present the links to the other pages don't go anywhere and the e-mail form has no functionality. These are things to work on in the future.
 
 ## Contact
 
