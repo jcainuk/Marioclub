@@ -178,3 +178,8 @@ article p::first-line {
 section.join p::first-letter {
   font-size: 1.5em;
 }
+
+section.join p::selection {
+  background-color: #f63232;
+  color: white;
+}
