@@ -219,4 +219,9 @@ p::after {
   .banner .welcome span {
     font-size: 1em;
   }
+  .images li {
+    width: 100%;
+    margin: 20px auto;
+    display: block;
+  }
 }
